@@ -1,2 +1,2 @@
 print("you guy, whats good?")
-print("nm, hbu guy?)
+print("nm, hbu guy?")
